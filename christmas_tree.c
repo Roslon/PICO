@@ -1,5 +1,5 @@
 /** _______________________________________________________
-*   File:       p2.c
+*   File:       christmas_tree.c
 *   Version:    202212111047
 *   Copyright (C) 2022 Robert Roslon <robert@roslon.net>
 *   Brief:      Christmas Tree
